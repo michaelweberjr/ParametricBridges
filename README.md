@@ -7,3 +7,11 @@ The script requires BimorphNodes, LunchBox and Springs installed in your dynamo.
 
 The script has all of it's inputs on the left side of the visual interface. It requires an excel file with the roadway alignment that you want the bridge to span.
 Spans define where the peirs are placed. You specify this in an array where each value is the length of the span and the last span is given the value '-1' to span to end of the alignment.
+
+# Preview
+
+![alt text](dynamo_script_view.png?raw=true)
+
+![alt text](python_script_view.png?raw=true)
+
+![alt text](revit_overall_result.png?raw=true)
